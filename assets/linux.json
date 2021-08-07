@@ -1,0 +1,260 @@
+[
+    {
+        "1": "In HTML , <B> and </B> tags displays the enclosed text in -",
+        "2": "Who is known as father of computer ?",
+        "3": "Which of the following is not a progrmming language?",
+        "4": "Which of the followuing is not input device?",
+        "5": "Which of the following is a CUI based OS?",
+        "6": "Who is the first programmer?",
+        "7": "Which generation computer uses microprocessor as their main component?",
+        "8": "What is the main component of 2nd generation computer?",
+        "9": "What is the processing speed of 4th generation computer?",
+        "10": "What is the full form of CPU?"
+    },
+    {
+        "1": {
+            "a": "Black Colour",
+            "b": "Background",
+            "c": "Bold",
+            "d": "Bright"
+        },
+        "2": {
+            "a": "Charles Babbage",
+            "b": "Lady Ada Lovelace",
+            "c": "John von neumann",
+            "d": "Non of the above"
+        },
+        "3": {
+            "a": "C",
+            "b": "C++",
+            "c": "HTML",
+            "d": "Java"
+        },
+        "4": {
+            "a": "Speaker",
+            "b": "Mouse",
+            "c": "Keyboard",
+            "d": "Joystick"
+        },
+        "5": {
+            "a": "Windows",
+            "b": "Mac",
+            "c": "Linux",
+            "d": "Non of the above"
+        },
+        "6": {
+            "a": "Charles Babbage",
+            "b": "Lady Ada Lovelace",
+            "c": "John von neumann",
+            "d": "Non of the above"
+        },
+        "7": {
+            "a": "First generation",
+            "b": "Second generation",
+            "c": "Third generation",
+            "d": "Fourth generation"
+        },
+        "8": {
+            "a": "Vacuum tube",
+            "b": "Transistors",
+            "c": "IC",
+            "d": "Non of the above"
+        },
+        "9": {
+            "a": "picosecond",
+            "b": "microsceond",
+            "c": "nanosecond",
+            "d": "Non of the above"
+        },
+        "10": {
+            "a": "Computer Processing Unit",
+            "b": "Central Processing Unit",
+            "c": "Computer Programming Unit",
+            "d": "Central Programming Unit"
+        }
+    },
+    {
+        "1": "Bold",
+        "2": "Charles Babbage",
+        "3": "HTML",
+        "4": "Speaker",
+        "5": "Linux",
+        "6": "Lady Ada Lovelace",
+        "7": "Fourth generation",
+        "8": "Transistors",
+        "9": "picosecond",
+        "10": "Central Processing Unit"
+    },
+    {
+        "1": "Mark Zuckerberg is the owner of ",
+        "2": "Which web browser is developed by Google?",
+        "3": "Which of the following is used to make presentation file from Microsoft Office Package?",
+        "4": "In which year Microsoft Company was founded?",
+        "5": "The main page of a Website is known as ",
+        "6": "Binary system uses the power of " ,
+        "7": "The default page size for word document is " ,
+        "8": "Total number of pins in a serial port is " ,
+        "9": "What does the letter S stands for in the Web terminology HTTPS" ,
+        "10": "Who is the founder of Bluetooth?" 
+    },
+    {
+        "1": {
+            "a": "Facebook",
+            "b": "Linux",
+            "c": "Google",
+            "d": "Tesla"
+        },
+        "2": {
+            "a": "IE",
+            "b": "Chrome",
+            "c": "Edge",
+            "d": "Firefox"
+        },
+        "3": {
+            "a": "MS Excel",
+            "b": "MS Word",
+            "c": "MS Powerpoint",
+            "d": "MS Outlook"
+        },
+        "4": {
+            "a": "1972",
+            "b": "1975",
+            "c": "1980",
+            "d": "1982"
+        },
+        "5": {
+            "a": "Homepage",
+            "b": "Bookmarked Page",
+            "c": "Main page",
+            "d": "Navigator page"
+        },
+        "6": {
+            "a": "2",
+            "b": "4",
+            "c": "6",
+            "d": "8"
+        },
+        "7": {
+            "a": "A3",
+            "b": "A4",
+            "c": "Letter",
+            "d": "Non of the above"
+        },
+        "8": {
+            "a": "5",
+            "b": "7",
+            "c": "9",
+            "d": "15"
+        },
+        "9": {
+            "a": "Safe",
+            "b": "Secure",
+            "c": "Short",
+            "d": "Slow"
+        },
+        "10": {
+            "a": "Apple",
+            "b": "Ericsson",
+            "c": "IBM",
+            "d": "Dell"
+        }
+    },
+    {
+        "1": "Facebook",
+        "2": "Chrome",
+        "3": "MS Powerpoint",
+        "4": "1975",
+        "5": "Homepage",
+        "6": "2",
+        "7": "A4",
+        "8": "9",
+        "9": "Secure",
+        "10": "Ericsson"
+    },
+    {
+        "1": "What Will Be The Output Of the Following Code ?\na = \"p\" * 3\nprint(a)",
+        "2": "Which function finds out the Variable type in Python ?",
+        "3": "What Will Be The Output Of the Following Code ?\nif(1 + 1 + 1 + 1 + 1 == 5){\n\tSystem.out.print(\"TRUE\");\n}\n\telse{\n\tSystem.out.print(\"FALSE\");\n};",
+        "4": "Which of the following is a print Function in Python ?",
+        "5": "Which of the following is the first fully supported 64-bit operating system? ",
+        "6": "In computer world , Trojen refers to -  " ,
+        "7": "Which protocol is used to send E-mail?" ,
+        "8": "Which protocol is used to receive E-mail?" ,
+        "9": "A folder in windows can't be made with the name " ,
+        "10": "Which company first developed the JAVA programming language?" 
+    },
+    {
+        "1": {
+            "a": "pp",
+            "b": "ppp",
+            "c": "3p",
+            "d": "p3"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "3": {
+            "a": "TRUE",
+            "b": "BOTH",
+            "c": "ERROR",
+            "d": "FALSE"
+        },
+        "4": {
+            "a": "cout",
+            "b": "print",
+            "c": "println",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "Mac",
+            "b": "Windows Vista",
+            "c": "Linux",
+            "d": "Windows XP"
+        },
+        "6": {
+            "a": "Virus",
+            "b": "Malware",
+            "c": "Worm",
+            "d": "Spyware"
+        },
+        "7": {
+            "a": "SMTP",
+            "b": "HTTP",
+            "c": "FTP",
+            "d": "POP3"
+        },
+        "8": {
+            "a": "SMTP",
+            "b": "HTTP",
+            "c": "FTP",
+            "d": "POP3"
+        },
+        "9": {
+            "a": "can",
+            "b": "con",
+            "c": "make",
+            "d": "res"
+        },
+        "10": {
+            "a": "Microsoft",
+            "b": "Google",
+            "c": "Sun Microsystems",
+            "d": "IBM"
+        }
+    },
+    {
+        "1": "ppp",
+        "2": "typeof",
+        "3": "TRUE",
+        "4": "print",
+        "5": "Linux",
+        "6": "Malware",
+        "7": "SMTP",
+        "8": "POP3",
+        "9": "con",
+        "10": "Sun Microsystems"
+    }
+]

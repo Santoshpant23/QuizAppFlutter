@@ -1,0 +1,260 @@
+[
+    {
+        "1": "कुन राजवंशले पहिलो पल्ट नेपाललाई शासन गर्यो?",
+        "2": "किरात वंशका पहिलो राजा को थिए?",
+        "3": "कुन ठाउँलाई नेपाललको प्रवेशद्वार भनेर चिनिन्छ?",
+        "4": "नेपालबाट बंगलादेशको नजिकको ठाउँ कति टाढा छ?",
+        "5": " को Hero Of Khalanga को रूप मा चिनिन्छ?",
+        "6": "माउन्ट इभरेस्टको उचाई के हो?",
+        "7": "नेपाल आउने पहिलो ब्रिटिश को हुन?",
+        "8": "भीमसेन थापा कहिलेसम्म नेपालको प्रधानमन्त्री बने?",
+        "9": "नेपालको \"जीवित सिंह\" भनेर कसलाई चिनिन्छ?",
+        "10": "नेपालमा कतिवटा प्रदेशहरू छन्?"
+    },
+    {
+        "1": {
+            "a": "Gopal Dynasty",
+            "b": "Kirat Dynasty",
+            "c": "Som dynasty",
+            "d": "Abhir Dynasty"
+        },
+        "2": {
+            "a": "Yalamber",
+            "b": "Jitegasti",
+            "c": "Gasti",
+            "d": "Sthunko"
+        },
+        "3": {
+            "a": "Namche bazar",
+            "b": "Birgunj",
+            "c": "Kangal Dada",
+            "d": "Non Of Above"
+        },
+        "4": {
+            "a": "25 km",
+            "b": "26 km",
+            "c": "27 km",
+            "d": "28 km"
+        },
+        "5": {
+            "a": "Bhimsen thapa",
+            "b": "Amar singh thapa",
+            "c": "Bal bhadra kuwar",
+            "d": "Bhakti thapa"
+        },
+        "6": {
+            "a": "7878 m",
+            "b": "8848 m",
+            "c": "8878 m",
+            "d": "8868 m"
+        },
+        "7": {
+            "a": "Kark Patrick",
+            "b": "Jilespi",
+            "c": "Brad Shaw",
+            "d": "None of the above"
+        },
+        "8": {
+            "a": "30",
+            "b": "31",
+            "c": "32",
+            "d": "33"
+        },
+        "9": {
+            "a": "Bhimsen thapa",
+            "b": "Amar singh thapa",
+            "c": "Bal bhadra kuwar",
+            "d": "Bhakti thapa"
+        },
+        "10": {
+            "a": "5",
+            "b": "6",
+            "c": "7",
+            "d": "14"
+        }
+    },
+    {
+        "1": "Gopal Dynasty",
+        "2": "Yalamber",
+        "3": "Birgunj",
+        "4": "27 km",
+        "5": "Bal bhadra kuwar",
+        "6": "8848 m",
+        "7": "Kark Patrick",
+        "8": "31",
+        "9": "Amar singh thapa",
+        "10": "7"
+    },
+    {
+        "1": "नेपालको पहिलो गायक को हुन?",
+        "2": "रेडियो नेपालमा पहिलो गायक को हुन?",
+        "3": "संसारमा सब भन्दा पुरानो धर्म कुन हो?",
+        "4": "हिन्दु पौराणिक कथाको अनुसार मर्ने पहिलो व्यक्ति को हुन?",
+        "5": "अरनिकोको वास्तविक नाम के हो?",
+        "6": "BS 1990 मा कति विद्यार्थीहरू पहिलो SLC उत्तीर्ण भएका थिए?" ,
+        "7": "महाभारत युद्ध कहाँ लडेको थियो?" ,
+        "8": "कुन रावणको बगैचा हनमानले नष्ट गरेको थियो?" ,
+        "9": "रावणकी बहिनी को हो?" ,
+        "10": "भागवत गीता कसले लेखेका थिए?" 
+    },
+    {
+        "1": {
+            "a": "Setu Ram",
+            "b": "Hari Prasad Rimal",
+            "c": "Kesher Samsher",
+            "d": "None of the above"
+        },
+        "2": {
+            "a": "Setu Ram",
+            "b": "Hari Prasad Rimal",
+            "c": "Kesher Samsher",
+            "d": "None of the above"
+        },
+        "3": {
+            "a": "Hinduism",
+            "b": "Buddhism",
+            "c": "Christianity",
+            "d": "Judaism"
+        },
+        "4": {
+            "a": "Yama",
+            "b": "Indra",
+            "c": "Shani",
+            "d": "Yamuna"
+        },
+        "5": {
+            "a": "Nyuchheman",
+            "b": "Chitraman",
+            "c": "Balbahu",
+            "d": "Bal Bahadur"
+        },
+        "6": {
+            "a": "11",
+            "b": "22",
+            "c": "33",
+            "d": "44"
+        },
+        "7": {
+            "a": "Indra Prasth",
+            "b": "Kurukshetra",
+            "c": "Tapoban",
+            "d": "None of the above"
+        },
+        "8": {
+            "a": "Chitrakut",
+            "b": "Chitrarath",
+            "c": "Ashoka Batika",
+            "d": "None of the above"
+        },
+        "9": {
+            "a": "Shanti",
+            "b": "Supernakha",
+            "c": "Keshari",
+            "d": "None of the above"
+        },
+        "10": {
+            "a": "Vyas",
+            "b": "Valmiki",
+            "c": "Vishwamitra",
+            "d": "Vashistha"
+        }
+    },
+    {
+        "1": "Setu Ram",
+        "2": "Hari Prasad Rimal",
+        "3": "Hinduism",
+        "4": "Yama",
+        "5": "Balbahu",
+        "6": "33",
+        "7": "Kurukshetra",
+        "8": "Ashoka Batika",
+        "9": "Supernakha",
+        "10": "Vyas"
+    },
+    {
+        "1": "भीमसेन थापास टाउको कहाँ सुरक्षित राखिएको छ?",
+        "2": "हिन्दू धर्ममा कति वेद छन्?",
+        "3": "शुक्राराज शास्त्रीलाई कहिले झुण्डियो?",
+        "4": "मृत्युदण्ड पाउँदा गंगालाल कति वर्षका थिए?",
+        "5": "कुन नेपाली प्रधानमन्त्री पहिलो पटक सवारीसाधनमा चढे?",
+        "6": "सती प्रथाको अन्त नेपालमा कहिले भयो?" ,
+        "7": "गुलामी(Slavery) प्रथाको अन्त नेपालमा कहिले भयो?" ,
+        "8": "नेपालमा दासत्व प्रणालीको अन्त्य गर्ने घोषणा कसले गरे?" ,
+        "9": "पृथ्वी नारायण शाहको  मृत्यु कहिले भयो?" ,
+        "10": "नेपलको पहिलो वैज्ञानिक को हुन?" 
+    },
+    {
+        "1": {
+            "a": "London Museum",
+            "b": "Tokyo National Museum",
+            "c": "Prado Museum",
+            "d": "Hermitage Museum"
+        },
+        "2": {
+            "a": "3",
+            "b": "4",
+            "c": "5",
+            "d": "6"
+        },
+        "3": {
+            "a": "8 magh 1997",
+            "b": "9 magh 1997",
+            "c": "10 magh 1997",
+            "d": "11 magh 1997"
+        },
+        "4": {
+            "a": "21",
+            "b": "22",
+            "c": "23",
+            "d": "24"
+        },
+        "5": {
+            "a": "Dev Samsher",
+            "b": "Bir Samsher",
+            "c": "Chandra Samsher",
+            "d": "Padma Samsher"
+        },
+        "6": {
+            "a": "1975 BS",
+            "b": "1977 BS",
+            "c": "1979 BS",
+            "d": "1981 BS"
+        },
+        "7": {
+            "a": "1975 BS",
+            "b": "1977 BS",
+            "c": "1979 BS",
+            "d": "1981 BS"
+        },
+        "8": {
+            "a": "Dev Samsher",
+            "b": "Mohan Samsher",
+            "c": "Chandra Samsher",
+            "d": "Padma Samsher"
+        },
+        "9": {
+            "a": "January 15, 1776",
+            "b": "January 15, 1777",
+            "c": "January 15, 1778",
+            "d": "January 15, 1775"
+        },
+        "10": {
+            "a": "Bir Shumsher",
+            "b": "Gehendra Shumsher",
+            "c": "Chandra Shumsher",
+            "d": "Padma Shumsher"
+        }
+    },
+    {
+        "1": "London Museum",
+        "2": "4",
+        "3": "10 magh 1997",
+        "4": "22",
+        "5": "Bir Samsher",
+        "6": "1977",
+        "7": "1981",
+        "8": "Chandra Samsher",
+        "9": "January 15, 1775",
+        "10": "Gehendra Shumsher"
+    }
+]

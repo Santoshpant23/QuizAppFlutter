@@ -1,0 +1,260 @@
+[
+    {
+        "1": "पृथ्वीको अनुमानित उमेर कति हो?",
+        "2": "पृथ्वी अवस्थित ग्यालेक्सीको नाम के हो?",
+        "3": "कुन वायु ग्यास पृथ्वीको वायुमण्डलमा उच्चतम प्रतिशतमा पाइन्छ?",
+        "4": "पृथ्वीमा सब भन्दा उच्च पोइन्ट कुन हो?",
+        "5": "अन्तरिक्ष एजेन्सी NASA कुन देशको हो?",
+        "6": "क्षेत्र को हिसाबमा सबैभन्दा ठूलो महाद्वीप कुन हो?",
+        "7": "गुरुत्वाकर्षणको अवधारणा कुन प्रख्यात भौतिकशास्त्रीले पत्ता लगाएका थिए?",
+        "8": "कुन प्रसिद्ध ब्रिटिश भौतिकशास्त्रीले A Brief History of Time लेखेका थिए?",
+        "9": "मानव शरीरमा कति हड्डीहरू हुन्छन्?",
+        "10": "हाम्रो सौर्यमण्डलको सबैभन्दा ठूलो ग्रह के हो?"
+    },
+    {
+        "1": {
+            "a": "4.54 अरब वर्ष",
+            "b": "5.54 अरब वर्ष",
+            "c": "6.54 अरब वर्ष",
+            "d": "7.54 अरब वर्ष"
+        },
+        "2": {
+            "a": "Barnard's Galaxy",
+            "b": "Milky Way Galaxy",
+            "c": "Andromeda I",
+            "d": "Andromeda II"
+        },
+        "3": {
+            "a": "अक्सिजन",
+            "b": "कार्बन डाइअक्साइड",
+            "c": "आर्गन",
+            "d": "नाइट्रोजन"
+        },
+        "4": {
+            "a": "Mt. Everest",
+            "b": "Mt. K2",
+            "c": "Mt. Makalu",
+            "d": "Mt. Kanchanjunga"
+        },
+        "5": {
+            "a": "Germany",
+            "b": "USA",
+            "c": "China",
+            "d": "Japan"
+        },
+        "6": {
+            "a": "Asia",
+            "b": "Africa",
+            "c": "Europe",
+            "d": "North America"
+        },
+        "7": {
+            "a": "Albert Einstein",
+            "b": "Michael Faraday",
+            "c": "James Clerk Maxwell",
+            "d": "Sir Isaac Newton"
+        },
+        "8": {
+            "a": "Albert Einstein",
+            "b": "Stephen Hawking",
+            "c": "Sir Isaac Newton",
+            "d": "James Clerk Maxwell"
+        },
+        "9": {
+            "a": "206",
+            "b": "300",
+            "c": "506",
+            "d": "800"
+        },
+        "10": {
+            "a": "Earth",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn"
+        }
+    },
+    {
+        "1": "4.54 अरब वर्ष",
+        "2": "Milky Way Galaxy",
+        "3": "नाइट्रोजन",
+        "4": "Mt. Everest",
+        "5": "USA",
+        "6": "Asia",
+        "7": "Sir Isaac Newton",
+        "8": "Stephen Hawking",
+        "9": "206",
+        "10": "Jupiter"
+    },
+    {
+        "1": "क्लोरोफार्मलाई एनेस्थेटिकको रूपमा आविष्कार कसले गरे?",
+        "2": "पछाडिको ट्राफिक हेर्नको लागि अटोमोबाइलमा प्रयोग गरिएको ऐनाको प्रकार कुन हो?",
+        "3": "निम्नलिखित मध्ये कुन कामको एकाई हो?",
+        "4": "हाइड्रोजन बम कसले विकास गरे?",
+        "5": "२०१२ May मा निम्नमध्ये कुन देशले एउटा जासूस उपग्रह Kobalt-M प्रक्षेपण गर्यो?",
+        "6": "निम्न मध्ये कुनलाई Plant kingdom मा Amphibian भनिन्छ?" ,
+        "7": "उत्तर अमेरिकाको शीतोष्ण घाँस मैदानहरू के भनेर चिनिन्छ?" ,
+        "8": " हाँस्ने ग्यासको रासायनिक प्रकृति के हो?" ,
+        "9": "सबैभन्दा खराब वायु प्रदूषण गराउने पदार्थ के हो?" ,
+        "10": "निम्न मध्ये कुन कारणले समुद्री प्रवाहहरू उत्पन्न गर्दछ?" 
+    },
+    {
+        "1": {
+            "a": "James Simpson",
+            "b": "Edward Jenner",
+            "c": "Alexander Fleming",
+            "d": "Christian Barnard"
+        },
+        "2": {
+            "a": "Plano-Convex",
+            "b": "Plane",
+            "c": "Convex",
+            "d": "Concave"
+        },
+        "3": {
+            "a": "Ohm",
+            "b": "Ampere",
+            "c": "Coulomb",
+            "d": "Joule"
+        },
+        "4": {
+            "a": "Edward Teller",
+            "b": "Samuel Cohen",
+            "c": "Wernher Von Braun",
+            "d": "J. Robert Open Heimer"
+        },
+        "5": {
+            "a": "France",
+            "b": "USA",
+            "c": "China",
+            "d": "Russia"
+        },
+        "6": {
+            "a": "Algae",
+            "b": "Fungi",
+            "c": "Bryophyta",
+            "d": "pteridophyta"
+        },
+        "7": {
+            "a": "Pampas",
+            "b": "Prairies",
+            "c": "Steppes",
+            "d": "Tundra"
+        },
+        "8": {
+            "a": "Nitric Oxide",
+            "b": "Hydrogen Chloride",
+            "c": "Nitrous Oxide",
+            "d": "Sulphur Dioxide"
+        },
+        "9": {
+            "a": "Smoke",
+            "b": "Sulphur dioxide",
+            "c": "Carbon dioxide",
+            "d": "Carbon monoxide"
+        },
+        "10": {
+            "a": "Monsoon winds",
+            "b": "Permanent winds",
+            "c": "Periodic winds",
+            "d": "Westerlies"
+        }
+    },
+    {
+        "1": "James Simpson",
+        "2": "Convex",
+        "3": "Joule",
+        "4": "Edward Teller",
+        "5": "Russia",
+        "6": "Bryophyta",
+        "7": "Prairies",
+        "8": "Nitrous Oxide",
+        "9": "Sulphur dioxide",
+        "10": "Permanent winds"
+    },
+    {
+        "1": "अल्बर्ट आइनस्टाइनको E=mc^2 सुत्रमा c को अर्थ के हो?",
+        "2": "भ्याकुममा प्रकाशको गति कति छ?",
+        "3": "UV क्षतिबाट बोटहरूलाई बचाउने वर्णक भनेको के हो?",
+        "4": "निम्न मध्ये कुन परिमाण Inertia को मापन हो?",
+        "5": "हिप्पोक्याम्पस मानव शरीरको कुन भागमा अवस्थित छ?",
+        "6": "मानव शरीरमा कुन रक्तनलीले सामान्यतया यूरियाको मात्रा बोक्छ?" ,
+        "7": "मानव शरीरमा सबैभन्दा प्रचुर मात्रामा पाईने तत्त्व कुन हो?" ,
+        "8": "कसले Dark Matter पत्ता लगायो?" ,
+        "9": "पृथ्वी दिवस कहिले मनाइन्छ?" ,
+        "10": "Father of Biology को हुन्?" 
+    },
+    {
+        "1": {
+            "a": "Central of mass",
+            "b": "Speed of light",
+            "c": "Centripetal Force",
+            "d": "Centrifugal force"
+        },
+        "2": {
+            "a": "3 * 10^8 meter per sec",
+            "b": "3 * 10^7 meter per sec",
+            "c": "3 * 10^9 meter per sec",
+            "d": "3 * 10^6 meter per sec"
+        },
+        "3": {
+            "a": "Chlorophyll",
+            "b": "Xanthophyll",
+            "c": "Phycocyanin",
+            "d": "Carotenoids"
+        },
+        "4": {
+            "a": "Velocity",
+            "b": "Acceleration",
+            "c": "Mass",
+            "d": "Weight"
+        },
+        "5": {
+            "a": "Brain",
+            "b": "Eyes",
+            "c": "Ears",
+            "d": "None"
+        },
+        "6": {
+            "a": "Hepatic Vein",
+            "b": "Portal Vein",
+            "c": "Dorsal Aroeta",
+            "d": "Renal Vein"
+        },
+        "7": {
+            "a": "Iron",
+            "b": "Oxygen",
+            "c": "Carbon",
+            "d": "Nitrogen"
+        },
+        "8": {
+            "a": "Nikola Tesla",
+            "b": "Albert Einstein",
+            "c": "Fritz Zwicky",
+            "d": "Stephen Hawking"
+        },
+        "9": {
+            "a": "April 22",
+            "b": "March 12",
+            "c": "December 23",
+            "d": "June 5"
+        },
+        "10": {
+            "a": "Aristotle",
+            "b": "Charles Darwin",
+            "c": "James Watson",
+            "d": "Robert Hooke"
+        }
+    },
+    {
+        "1": "Speed of light",
+        "2": "3 * 10^8 meter per sec",
+        "3": "Carotenoids",
+        "4": "Mass",
+        "5": "Brain",
+        "6": "Portal Vein",
+        "7": "Oxygen",
+        "8": "Fritz Zwicky",
+        "9": "April 22",
+        "10": "Aristotle"
+    }
+]

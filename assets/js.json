@@ -1,0 +1,260 @@
+[
+    {
+        "1": "What is the next prime number after 5?",
+        "2": "HCF of 26 and 91 is:",
+        "3": "The product of 121 x 0 x 200 x 25 is:",
+        "4": "Solve: 300 – (150×2)",
+        "5": " The product of 82 and 5 is:",
+        "6": "20+(90÷2) is equal to:",
+        "7": " 50 times of 8 is equal to:",
+        "8": " What is the sum of 130+125+191?",
+        "9": "If we minus 719 from 1000, how much do we get?",
+        "10": "310 divided by 10 is:"
+    },
+    {
+        "1": {
+            "a": "6",
+            "b": "7",
+            "c": "9",
+            "d": "11"
+        },
+        "2": {
+            "a": "15",
+            "b": "12",
+            "c": "13",
+            "d": "19"
+        },
+        "3": {
+            "a": "1254",
+            "b": "652",
+            "c": "4777",
+            "d": "0"
+        },
+        "4": {
+            "a": "600",
+            "b": "0",
+            "c": "530",
+            "d": "300"
+        },
+        "5": {
+            "a": "400",
+            "b": "410",
+            "c": "420",
+            "d": "430"
+        },
+        "6": {
+            "a": "65",
+            "b": "55",
+            "c": "75",
+            "d": "95"
+        },
+        "7": {
+            "a": "400",
+            "b": "500",
+            "c": "520",
+            "d": "430"
+        },
+        "8": {
+            "a": "456",
+            "b": "446",
+            "c": "436",
+            "d": "400"
+        },
+        "9": {
+            "a": "289",
+            "b": "381",
+            "c": "391",
+            "d": "281"
+        },
+        "10": {
+            "a": "32",
+            "b": "31",
+            "c": "41",
+            "d": "22"
+        }
+    },
+    {
+        "1": "7",
+        "2": "13",
+        "3": "0",
+        "4": "0",
+        "5": "410",
+        "6": "65",
+        "7": "400",
+        "8": "446",
+        "9": "281",
+        "10": "31"
+    },
+    {
+        "1": " Which of the following numbers are not divisible by 5?",
+        "2": " Which of the following numbers are divisible by 10?",
+        "3": "If a number is divisible 9, then it is divisible by:",
+        "4": "If the three digit number 24x is divisible by 9, the value of x is:",
+        "5": " The number 2146587 is divisible by:",
+        "6": "The number 15287 is divisible by:" ,
+        "7": " Which of the following is not a quadrilateral?" ,
+        "8": "If AB and CD are two parallel sides of a parallelogram, then:" ,
+        "9": " Each of the angles of a square is:" ,
+        "10": "The quadrilateral whose diagonals are perpendicular to each other is:" 
+    },
+    {
+        "1": {
+            "a": "25",
+            "b": "20",
+            "c": "322",
+            "d": "1000"
+        },
+        "2": {
+            "a": "25",
+            "b": "15",
+            "c": "22",
+            "d": "110"
+        },
+        "3": {
+            "a": "3",
+            "b": "7",
+            "c": "2",
+            "d": "17"
+        },
+        "4": {
+            "a": "3",
+            "b": "7",
+            "c": "5",
+            "d": "8"
+        },
+        "5": {
+            "a": "7",
+            "b": "3",
+            "c": "9",
+            "d": "11"
+        },
+        "6": {
+            "a": "3",
+            "b": "7",
+            "c": "9",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "Square",
+            "b": "Rectangle",
+            "c": "Triangle",
+            "d": "Parallelogram"
+        },
+        "8": {
+            "a": "AB>CD",
+            "b": "AB<CD",
+            "c": "AB=CD",
+            "d": "None of the above"
+        },
+        "9": {
+            "a": "Acute angle",
+            "b": "Right angle",
+            "c": "Obtuse angle",
+            "d": "180 Degree"
+        },
+        "10": {
+            "a": "Parallelogram",
+            "b": "Rectangle",
+            "c": "Trapezium",
+            "d": "Rhombus"
+        }
+    },
+    {
+        "1": "322",
+        "2": "110",
+        "3": "3",
+        "4": "3",
+        "5": "3",
+        "6": "None of the above",
+        "7": "Triangle",
+        "8": "AB=CD",
+        "9": "Right angle",
+        "10": "Rhombus"
+    },
+    {
+        "1": "The zeroes of x^2–2x –8 are:",
+        "2": " A bag has 3 red balls and 5 green balls. If we take a ball from the bag, then what is the probability of getting red balls only?",
+        "3": "A dice is thrown in the air. The probability of getting odd numbers is",
+        "4": "The midpoints of a line segment joining two points A(2, 4) and B(-2, -4) is",
+        "5": "The distance of point A(2, 4) from x-axis is",
+        "6": "The mean of the data: 4, 10, 5, 9, 12 is" ,
+        "7": "HCF of 26 and 91 is:" ,
+        "8": "The least number that is divisible by all the numbers from 1 to 5 is" ,
+        "9": "The value of tan 60°/cot 30° is equal to:" ,
+        "10": "Sin (90° – A) and cos A are:" 
+    },
+    {
+        "1": {
+            "a": "(2,-4)",
+            "b": "(4,-2)",
+            "c": "(-2,4)",
+            "d": "(-4,2)"
+        },
+        "2": {
+            "a": "3",
+            "b": "4",
+            "c": "3/8",
+            "d": "8/3"
+        },
+        "3": {
+            "a": "1/2",
+            "b": "3/2",
+            "c": "2/3",
+            "d": "3"
+        },
+        "4": {
+            "a": "(-2,4)",
+            "b": "(2,-4)",
+            "c": "(0, 0)",
+            "d": "(-2,-4)"
+        },
+        "5": {
+            "a": "2",
+            "b": "4",
+            "c": "-2",
+            "d": "-4"
+        },
+        "6": {
+            "a": "8",
+            "b": "10",
+            "c": "15",
+            "d": "9"
+        },
+        "7": {
+            "a": "13",
+            "b": "15",
+            "c": "19",
+            "d": "11"
+        },
+        "8": {
+            "a": "50",
+            "b": "55",
+            "c": "60",
+            "d": "70"
+        },
+        "9": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "0"
+        },
+        "10": {
+            "a": "Different",
+            "b": "Same",
+            "c": "Not Related",
+            "d": "None of the above"
+        }
+    },
+    {
+        "1": "(4,-2)",
+        "2": "3/8",
+        "3": "1/2",
+        "4": "(0, 0)",
+        "5": "4",
+        "6": "8",
+        "7": "13",
+        "8": "60",
+        "9": "1",
+        "10": "Same"
+    }
+]
